@@ -4,7 +4,7 @@ This repository contains the production-ready build files (dist folder) for DevO
 
 It is intentionally structured to help learners focus on CI/CD pipelines, hosting, containerization, and infrastructure setup rather than application development.
 
-📁 What This Repository Contains
+ What This Repository Contains
 
 dist/ – Compiled and production-ready static files
 
@@ -28,7 +28,7 @@ Kubernetes clusters
 
 CI/CD pipeline demonstrations
 
-🎯 Purpose of This Repository
+Purpose of This Repository
 
 This repository is designed for:
 
@@ -46,7 +46,7 @@ Reverse proxy and load balancer setup
 
 The goal is to simulate real-world deployment scenarios using already built application files.
 
-❓ Why is there NO package.json?
+ Why is there NO package.json?
 
 You may notice that this repository does not include:
 
