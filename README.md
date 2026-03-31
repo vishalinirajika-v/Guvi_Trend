@@ -1,4 +1,4 @@
-DevOps Practice Project – Dist Directory
+DevOps Practice Project
 
 This repository contains the production-ready build files (dist folder) for DevOps practice and deployment exercises.
 
